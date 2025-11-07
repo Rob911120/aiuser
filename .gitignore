@@ -1,0 +1,15 @@
+# Ignorera okrypterade filer
+*.tar.gz
+*.tar
+*.zip
+
+# Temporära filer
+*.tmp
+*.temp
+.DS_Store
+
+# Loggar
+*.log
+
+# Bara krypterade backups ska committas!
+# Tillåt: *.tar.gz.enc
